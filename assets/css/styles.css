@@ -28,10 +28,13 @@ body{
     font-size: 1em; 
     font-family: Arial, Helvetica, sans-serif;
     font-weight: lighter;
+    
+   
   }
 
   #color-name{
     font-size: 1.5em; 
+    
   }
 
   #paint-info-container {
